@@ -1,0 +1,19 @@
+﻿=== LATEST PRODUCT ===
+ID: 63 | Title: ╪│╪▒┘è╪▒ ┘à╪│╪¬╪╣┘à┘ä ╪¿╪º┘ä┘à╪▒╪¬╪¿╪⌐ ┘à┘é╪º╪│ 100 ╪│┘à | Detected: 'bed' | Owner: omar | Auction: 35
+Auction Bids: 0 | Current Bid: 700.00
+
+=== AGENTS ===
+AgentID: 25 | User: MOHAMED | Target: bed | Budget: 900.00
+AgentID: 24 | User: BADRY | Target: bed | Budget: 500.00
+AgentID: 23 | User: admin3 | Target: bed | Budget: 900.00
+AgentID: 21 | User: 3mk | Target: bed | Budget: 1000.00
+AgentID: 5 | User: samer | Target: bed | Budget: 400.00
+AgentID: 4 | User: samer | Target: bed | Budget: 400.00
+AgentID: 3 | User: samer | Target: bed | Budget: 400.00
+
+=== LATEST NOTIFICATIONS ===
+Notif: ≡ƒñû ╪º┘ä┘ê┘â┘è┘ä ╪º┘ä╪░┘â┘è ┘ä┘à ┘è╪│╪¬╪╖╪╣ ╪º┘ä┘à╪▓╪º┘è╪»╪⌐ - ╪▒╪╡┘è╪» ╪║┘è╪▒ ┘â╪º┘ü┘è | User: 3mk | ProductID: 63 | Reasoning: 
+Notif: ≡ƒñû ╪º┘ä┘ê┘â┘è┘ä ╪º┘ä╪░┘â┘è ┘ä┘à ┘è╪│╪¬╪╖╪╣ ╪º┘ä┘à╪▓╪º┘è╪»╪⌐ - ╪▒╪╡┘è╪» ╪║┘è╪▒ ┘â╪º┘ü┘è | User: MOHAMED | ProductID: 63 | Reasoning: 
+Notif: ≡ƒñû ╪º┘ä┘ê┘â┘è┘ä ╪¬╪«╪╖┘ë ┘à┘å╪¬╪¼: ╪│╪▒┘è╪▒ ┘à╪│╪¬╪╣┘à┘ä ╪¿╪º┘ä┘à╪▒╪¬╪¿╪⌐ ┘à┘é╪º╪│ 100 ╪│┘à | User: admin3 | ProductID: 63 | Reasoning: ╪º┘ä╪│╪▒┘è╪▒ ┘à╪│╪¬╪╣┘à┘ä ┘ê┘ä┘è╪│ ╪¿╪¡╪º┘ä┘ç ╪º┘ä╪¼╪»┘è╪»
+Notif: ≡ƒñû ╪º┘ä┘ê┘â┘è┘ä ╪¬╪«╪╖┘ë ┘à┘å╪¬╪¼: ┘â╪¬╪º╪¿ ┘à╪│╪¬╪╣┘à┘ä | User: BADRY | ProductID: 49 | Reasoning: The product listing does not mention the author Abdullah Badri or the genre of poetry, and the condition is not new as required by the user.
+Notif: ≡ƒñû ╪º┘ä┘ê┘â┘è┘ä ╪¬╪«╪╖┘ë ┘à┘å╪¬╪¼: ┘â╪¬╪º╪¿ ┘à╪│╪¬╪╣┘à┘ä | User: omar | ProductID: 49 | Reasoning: The product listing does not mention the specific term '╪¬╪▒┘à ╪¬╪º┘å┘è' which is required by the user.
